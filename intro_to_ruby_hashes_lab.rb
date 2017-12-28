@@ -1,7 +1,12 @@
+#def new_hash
+#	new_hash = {}
+#	new_hash
+#end
+#remember we can create and return a new hash with the following:
 def new_hash
-	new_hash = {}
-	new_hash
+	{}
 end
+
 
 def actor
 	actor = {name: "Dwayne The Rock Johnson"}
